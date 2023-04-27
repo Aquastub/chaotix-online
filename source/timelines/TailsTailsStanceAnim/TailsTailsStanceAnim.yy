@@ -1,18 +1,17 @@
 {
+  "resourceType": "GMTimeline",
+  "resourceVersion": "1.0",
+  "name": "TailsTailsStanceAnim",
   "momentList": [
-    {"moment":0,"evnt":{"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":8,"evnt":{"isDnD":false,"eventNum":8,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":16,"evnt":{"isDnD":false,"eventNum":16,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":24,"evnt":{"isDnD":false,"eventNum":24,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":32,"evnt":{"isDnD":false,"eventNum":32,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":39,"evnt":{"isDnD":false,"eventNum":39,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},"moment":0,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":8,"eventType":0,"isDnD":false,},"moment":8,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":16,"eventType":0,"isDnD":false,},"moment":16,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":24,"eventType":0,"isDnD":false,},"moment":24,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":32,"eventType":0,"isDnD":false,},"moment":32,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":39,"eventType":0,"isDnD":false,},"moment":39,},
   ],
   "parent": {
     "name": "Tails",
     "path": "folders/Timelines/Animations/Level Elements/Player/Characters/Tails/Tails.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TailsTailsStanceAnim",
-  "tags": [],
-  "resourceType": "GMTimeline",
 }

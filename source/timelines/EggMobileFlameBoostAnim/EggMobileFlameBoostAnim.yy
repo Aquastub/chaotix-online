@@ -1,17 +1,16 @@
 {
+  "resourceType": "GMTimeline",
+  "resourceVersion": "1.0",
+  "name": "EggMobileFlameBoostAnim",
   "momentList": [
-    {"moment":0,"evnt":{"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":3,"evnt":{"isDnD":false,"eventNum":3,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":6,"evnt":{"isDnD":false,"eventNum":6,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":9,"evnt":{"isDnD":false,"eventNum":9,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":12,"evnt":{"isDnD":false,"eventNum":12,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},"moment":0,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":3,"eventType":0,"isDnD":false,},"moment":3,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":6,"eventType":0,"isDnD":false,},"moment":6,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":9,"eventType":0,"isDnD":false,},"moment":9,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":12,"eventType":0,"isDnD":false,},"moment":12,},
   ],
   "parent": {
     "name": "Flame",
     "path": "folders/Timelines/Animations/Level Elements/Egg Mobile/Flame.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "EggMobileFlameBoostAnim",
-  "tags": [],
-  "resourceType": "GMTimeline",
 }

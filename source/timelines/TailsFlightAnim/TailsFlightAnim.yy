@@ -1,15 +1,14 @@
 {
+  "resourceType": "GMTimeline",
+  "resourceVersion": "1.0",
+  "name": "TailsFlightAnim",
   "momentList": [
-    {"moment":0,"evnt":{"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":2,"evnt":{"isDnD":false,"eventNum":2,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":3,"evnt":{"isDnD":false,"eventNum":3,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},"moment":0,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":0,"isDnD":false,},"moment":2,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":3,"eventType":0,"isDnD":false,},"moment":3,},
   ],
   "parent": {
     "name": "General",
     "path": "folders/Timelines/Animations/Level Elements/Player/Characters/Tails/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "TailsFlightAnim",
-  "tags": [],
-  "resourceType": "GMTimeline",
 }

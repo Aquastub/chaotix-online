@@ -1,17 +1,16 @@
 {
+  "resourceType": "GMTimeline",
+  "resourceVersion": "1.0",
+  "name": "SonicBrakeAnim",
   "momentList": [
-    {"moment":0,"evnt":{"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":6,"evnt":{"isDnD":false,"eventNum":6,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":12,"evnt":{"isDnD":false,"eventNum":12,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":18,"evnt":{"isDnD":false,"eventNum":18,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
-    {"moment":24,"evnt":{"isDnD":false,"eventNum":24,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMMoment",},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},"moment":0,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":6,"eventType":0,"isDnD":false,},"moment":6,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":12,"eventType":0,"isDnD":false,},"moment":12,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":18,"eventType":0,"isDnD":false,},"moment":18,},
+    {"resourceType":"GMMoment","resourceVersion":"1.0","name":"","evnt":{"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":24,"eventType":0,"isDnD":false,},"moment":24,},
   ],
   "parent": {
     "name": "General",
     "path": "folders/Timelines/Animations/Level Elements/Player/Characters/Sonic/General.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "SonicBrakeAnim",
-  "tags": [],
-  "resourceType": "GMTimeline",
 }

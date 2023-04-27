@@ -1,11 +1,10 @@
 {
-  "type": 1,
+  "resourceType": "GMShader",
+  "resourceVersion": "1.0",
+  "name": "ColorReplaceShd",
   "parent": {
     "name": "Effects",
     "path": "folders/Shaders/Effects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ColorReplaceShd",
-  "tags": [],
-  "resourceType": "GMShader",
+  "type": 1,
 }

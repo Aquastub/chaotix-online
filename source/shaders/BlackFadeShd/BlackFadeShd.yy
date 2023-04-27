@@ -1,11 +1,10 @@
 {
-  "type": 1,
+  "resourceType": "GMShader",
+  "resourceVersion": "1.0",
+  "name": "BlackFadeShd",
   "parent": {
     "name": "Transitions",
     "path": "folders/Shaders/Transitions.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "BlackFadeShd",
-  "tags": [],
-  "resourceType": "GMShader",
+  "type": 1,
 }
